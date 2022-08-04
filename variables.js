@@ -1,0 +1,1 @@
+let parejas = 2;
