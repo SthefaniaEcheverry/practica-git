@@ -4,3 +4,5 @@ let trabajo = resultado;
 let perrito = "Sparky";
 let perro = "Jerry";
 
+let dos = pareja;
+let tres = trio;
